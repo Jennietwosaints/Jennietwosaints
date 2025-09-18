@@ -2,7 +2,7 @@
 - 👀 I’m interested in traveling the world 🌎
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on anything I can!
-- 📫 How to reach me jennifer.coutinho@partnerhero.com
+
 
 <!---
 Jennietwosaints/Jennietwosaints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
